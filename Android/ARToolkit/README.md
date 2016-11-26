@@ -79,6 +79,6 @@ public class GDXRenderer extends ApplicationAdapter {
 
 #### Screenshots
 
-![Screenshot1](https://raw.githubusercontent.com/haru-a8n/CodeSamples/tree/master/Android/ARToolkit/screenshots/Screenshot_2016-11-26-00-19-27.png
+![Screenshot1](https://raw.githubusercontent.com/haru-a8n/CodeSamples/tree/master/Android/ARToolkit/screenshots/Screenshot_2016-11-26-00-19-27.png)
 
 port author: haru-a8n
