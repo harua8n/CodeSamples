@@ -79,12 +79,6 @@ public class GDXRenderer extends ApplicationAdapter {
 
 #### Screenshots
 
-![Screenshot1](https://raw.githubusercontent.com/kosiara/artoolkit-android-studio-example/master/screenshots/device-2015-12-09-102231.png)
-![Screenshot2](https://raw.githubusercontent.com/kosiara/artoolkit-android-studio-example/master/screenshots/device-2015-12-09-102300.png)
-
-#### Videos
-
-[![ARToolkit Android Studio sample](http://img.youtube.com/vi/g2z9acgPVHw/0.jpg)](https://youtu.be/g2z9acgPVHw "ARToolkit Android Studio sample")
-
+![Screenshot1](https://raw.githubusercontent.com/haru-a8n/CodeSamples/tree/master/Android/ARToolkit/screenshots/Screenshot_2016-11-26-00-19-27.png
 
 port author: haru-a8n
