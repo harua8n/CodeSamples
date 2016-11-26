@@ -1,9 +1,9 @@
 ## ARToolkit+libGDX example "SimpleAR" project in Android Studio
 
 #### Versions:
-Android Studio: 2.2.2
-ARToolKit v5.3.1
-libGDX 1.9.4
+* Android Studio: 2.2.2
+* ARToolKit v5.3.1
+* libGDX 1.9.4
 
 Tested on:
 Android 5.x, Android 6.0
